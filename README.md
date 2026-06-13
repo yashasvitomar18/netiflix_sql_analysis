@@ -1,1 +1,1 @@
-# netiflix_sql_analysis
+# Netflix Movies and TV Shows Data Analysis using PostgreSQL
